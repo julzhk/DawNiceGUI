@@ -1,0 +1,106 @@
+{
+ "next_id": 5,
+ "clips": [
+  {
+   "id": 1,
+   "name": "click.wav",
+   "file": "5355df6bc3f9438da49c18d5f34d2581.wav",
+   "duration": 0.4834467120181406
+  }
+ ],
+ "regions": [
+  {
+   "id": 2,
+   "clip": 1,
+   "track": 2,
+   "start": 0.3,
+   "offset": 0.0,
+   "length": 0.4834467120181406,
+   "fx": {
+    "gain": {
+     "on": true,
+     "level": 1.0
+    },
+    "lowpass": {
+     "on": true,
+     "freq": 2000.0,
+     "q": 1.0
+    },
+    "highpass": {
+     "on": true,
+     "freq": 2150.0,
+     "q": 1.0
+    },
+    "delay": {
+     "on": false,
+     "time": 0.3,
+     "feedback": 0.4,
+     "mix": 0.4
+    }
+   },
+   "preset": "echo"
+  },
+  {
+   "id": 3,
+   "clip": 1,
+   "track": 1,
+   "start": 1.74,
+   "offset": 0.0,
+   "length": 0.4834467120181406,
+   "fx": {
+    "gain": {
+     "on": true,
+     "level": 1.0
+    },
+    "lowpass": {
+     "on": false,
+     "freq": 2000.0,
+     "q": 1.0
+    },
+    "highpass": {
+     "on": false,
+     "freq": 200.0,
+     "q": 1.0
+    },
+    "delay": {
+     "on": false,
+     "time": 0.3,
+     "feedback": 0.4,
+     "mix": 0.4
+    }
+   },
+   "preset": "echo"
+  },
+  {
+   "id": 4,
+   "clip": 1,
+   "track": 0,
+   "start": 2.94,
+   "offset": 0.0,
+   "length": 0.4834467120181406,
+   "fx": {
+    "gain": {
+     "on": false,
+     "level": 1.0
+    },
+    "lowpass": {
+     "on": false,
+     "freq": 2000.0,
+     "q": 1.0
+    },
+    "highpass": {
+     "on": true,
+     "freq": 200.0,
+     "q": 1.0
+    },
+    "delay": {
+     "on": true,
+     "time": 0.72,
+     "feedback": 0.4,
+     "mix": 0.4
+    }
+   },
+   "preset": "echo"
+  }
+ ]
+}
