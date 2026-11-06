@@ -1,6 +1,6 @@
 # PoC DAW (NiceGUI)
 
-![](/Users/julianharley/Projects/DawNiceGUI/nicegui-daw.jpg)
+![](nicegui-daw.jpg)
 
 The same proof-of-concept Digital Audio Workstation as `../Daw`, rebuilt with
 [NiceGUI](https://nicegui.io) in place of Django, Datastar, htmx, Tailwind and daisyUI. It exists
